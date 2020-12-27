@@ -25,7 +25,7 @@
 }
 
 .ace_string.ace_regexp {
-  color: #A0DE94
+  color: #9ED49F
 }
 
 .ace_marker-layer .ace_selection {
@@ -66,22 +66,22 @@
 .ace_meta,
 .ace_support.ace_class,
 .ace_support.ace_type {
-  color: #FF4498;
+  color: #CF5584;
   text-decoration: underline
 }
 
 .ace_constant.ace_character,
 .ace_constant.ace_other {
-  color: #CB4B16
+  color: #5534B2
 }
 
 .ace_constant.ace_language {
-  color: #FF584F;
-  text-decoration: underline
+  color: #D14124;
+  font-weight: bold
 }
 
 .ace_constant.ace_numeric {
-  color: #6FE7FF
+  color: #85DAEB
 }
 
 .ace_fold {
@@ -98,7 +98,7 @@
 }
 
 .ace_string {
-  color: #8CF247
+  color: #86D295
 }
 .ace_comment {
   font-style: italic;
